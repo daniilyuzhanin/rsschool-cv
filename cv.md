@@ -6,8 +6,9 @@ Daniil Yuzhanin
 Short information
 -----------------
 
-	* About me: Teamwork, business communication, sociability, Integrated and analytical approach to problem solving
-	* Last work expirence: sale of laptops
+	About me: Teamwork, business communication, sociability, Integrated and analytical approach to problem solving
+	
+	Last work expirence: sale of laptops
 
 Skills
 ------
@@ -22,6 +23,8 @@ no information yet
 Experience
 ----------
 
+no information yet
+
 Education
 ---------
 
@@ -34,5 +37,6 @@ Education
 Languages
 ---------
 
-	* Russian
-	* English
+	1. Russian
+	
+	2. English
