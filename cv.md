@@ -6,7 +6,8 @@ Daniil Yuzhanin
 Short information
 -----------------
 
-	Teamwork, business communication, sociability, Integrated and analytical approach to problem solving
+	* About me: Teamwork, business communication, sociability, Integrated and analytical approach to problem solving
+	* Last work expirence: sale of laptops
 
 Skills
 ------
